@@ -1,0 +1,37 @@
+body{
+    padding: 170px;
+    background-color: rgb(184, 170, 170);
+}
+input{
+    background-color: rgb(194, 194, 194);
+    height: 85px;
+    width: 85px;
+    border: 2px solid black;
+    border-radius: 11px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(250, 18, 18);
+    box-shadow: 2px 2px black;
+}
+h1{
+    text-align: center;
+    font-size: 55px;
+}
+button{
+    font-weight: bold;
+    height: 60px;
+    width: 75px;
+    margin-top: 40px;
+    margin-left: 105px;
+    border-radius: 11px;
+    background-color: rgb(201, 193, 193);
+    border: 2px solid blue;
+    box-shadow: 2px 2px blue;
+}
+button:hover{
+    background-color: rgb(74, 119, 243);
+}
+input:hover{
+    background-color: lightgray;
+}
